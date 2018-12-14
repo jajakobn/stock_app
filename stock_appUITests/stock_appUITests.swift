@@ -8,7 +8,7 @@
 
 import XCTest
 
-class testUITests: XCTestCase {
+class stock_appUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()
