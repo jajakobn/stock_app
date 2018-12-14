@@ -19,6 +19,7 @@ var ticker8 = ""
 var ticker9 = ""
 var ticker10 = ""
 
+
 class ViewController: UIViewController {
     
     
@@ -26,12 +27,10 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
     }
-
+    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
 
-
 }
-
